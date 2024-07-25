@@ -42,3 +42,6 @@ Method: GET
 Headers: Authorization: Bearer <your_jwt_token>
 Response: Data accessible only to authenticated users, or an error message if authentication fails.
 
+![Screenshot 2024-07-25 152408](https://github.com/user-attachments/assets/a43f338b-b5b9-4390-b7d5-75035b419e01)
+
+
